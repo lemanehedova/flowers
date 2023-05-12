@@ -1,0 +1,17 @@
+ul li {
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-between;
+    padding: 20px;
+    display: inline-block;
+    color: black;
+}
+ li :hover{
+    color: red;
+}
+.fowers {
+    width: 80%;
+    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
+}
